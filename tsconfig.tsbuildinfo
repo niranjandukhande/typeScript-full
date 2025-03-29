@@ -1,1 +1,1 @@
-{"root":["./src/arrays.ts","./src/functions.ts","./src/inference.ts","./src/intersectionType.ts","./src/intro.ts","./src/never.ts","./src/objects.ts","./src/typeAliases.ts"],"version":"5.8.2"}
+{"root":["./src/arrays.ts","./src/enums.ts","./src/functions.ts","./src/inference.ts","./src/interface.ts","./src/interface2.ts","./src/intersectionType.ts","./src/intro.ts","./src/literal.ts","./src/never.ts","./src/objects.ts","./src/tuples.ts","./src/typeAliases.ts","./src/union.ts"],"version":"5.8.2"}
